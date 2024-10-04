@@ -4,17 +4,20 @@ camerondickson17/"
 
 
 <h2>👨‍💻 IT Projects:</h2>
-[DNS Sinkhole Pi-Hole] •	Installed a DNS sinkhole for my home network using a Raspberry Pi 3B+ and a software called “Pi-hole”, the software blocks ads, malware from my entire home network by filtering a blocklist over both IPv4 and IPv6.
+  Ask Me About My Projects:
+
+
+[DNS Sinkhole Pi-Hole] •	Installed a DNS sinkhole for my home network using a Raspberry Pi 3B+ and a software called “Pi-hole”, the software blocks ads, malware from my entire home network by filtering a blocklist over both IPv4 and IPv6. This was by far the coolest project I have done so far, the results are amazing! no more pesky ads everywhere you go online.
 
 
 Tutorial used (https://www.youtube.com/watch?v=cE21YjuaB6o&t=469s)
 
   
-[TrueNAS ] •		Integrated a homebased network-attached storage system using a spare pc, hard drives and software called TrueNAS. Allowing me to conveniently and securely store and backup my data from all my home devices
+[TrueNAS ] •		Integrated a homebased network-attached storage system using a spare HP EliteDesk pc, hard drives and software called TrueNAS. Allowing me to conveniently and securely store and backup my data from all my home devices. Perfect for storing important CAD files and Rhino projects.
  
  Tutorial used (https://www.youtube.com/watch?v=WjLaK8yQAag)
  
-[OctoPrint 3D Printer ] •		Connected OctoPrint for my Ender 3S1, a network-based software tool that allows me to remotely control my 3D printer using a Raspberry Pi 3B+, I also attached a camera letting me create timelapse of my prints and remotely watch the printer while away from home
+[OctoPrint 3D Printer ] •		Connected OctoPrint for my Ender 3S1, a network-based software tool that allows me to remotely control my 3D printer using a Raspberry Pi 3B+, I also attached a camera letting me create timelapse of my prints and remotely watch the printer while away from home. I have always wanted to do this project, finally after getting some free time I have it setup and couldnt be happier.
 
 Tutorial used (https://www.youtube.com/watch?v=HBd0olxI-No&t=487s)
 
