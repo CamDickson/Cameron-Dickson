@@ -7,7 +7,7 @@ camerondickson17/"
   Ask Me About My Projects:
 
 
-[DNS Sinkhole Pi-Hole] •	Installed a DNS sinkhole for my home network using a Raspberry Pi 3B+ and a software called “Pi-hole”, the software blocks ads, malware from my entire home network by filtering a blocklist over both IPv4 and IPv6. This was by far the coolest project I have done so far, the results are amazing! no more pesky ads everywhere you go online.
+[DNS Sinkhole Pi-Hole] •https://github.com/CamDickson/Pi-Hole/blob/main/README.md
 
 
 
