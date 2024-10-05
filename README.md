@@ -36,8 +36,7 @@ camerondickson17/"
 
 
 [youtube]: https://www.youtube.com/@CamDickson16
-[instagram]: https://www.instagram.com/camdickson16/
-[linkedin]: www.linkedin.com/in/camerondickson17
+
 
 
 - ⚡ Fun fact: I love 3D printing 
